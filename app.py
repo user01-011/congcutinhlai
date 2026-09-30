@@ -12,7 +12,7 @@ st.set_page_config(
 # =========================
 # TIÊU ĐỀ
 # =========================
-st.title("💰 Ứng dụng tính lãi tiền gửi tiết kiệm")
+st.title("💰 Ứng dụng tính lãi tiền gửi tiết kiệm_Huong")
 st.write("Tính toán tiền lãi theo **lãi đơn** hoặc **lãi kép**.")
 
 st.divider()
